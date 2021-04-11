@@ -1,4 +1,4 @@
-# Avoid
+# Avoid-Me 1.0
 Annoying GUI Application <br/><br/><br/>
 ![alt text](https://github.com/AAVision/Avoid/blob/master/12.jpg?raw=true)
 
