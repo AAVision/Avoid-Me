@@ -63,8 +63,8 @@ namespace Avoid
 
           
                 // set Icon for the Forms
-                Icon icon = Icon.ExtractAssociatedIcon("12.ico");
-                this.Icon = icon;
+                //Icon icon = Icon.ExtractAssociatedIcon("12.ico");
+                //this.Icon = icon;
 
             }
 
