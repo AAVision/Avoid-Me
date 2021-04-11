@@ -1,5 +1,5 @@
-# Avoid-Me 1.0
-Annoying GUI Application <br/><br/><br/>
+# Avoid-Me 
+Annoying GUI Application V1.0 <br/><br/><br/>
 ![alt text](https://github.com/AAVision/Avoid/blob/master/12.jpg?raw=true)
 
 It's an application that can generate 2 new forms after closing the main form. <br/>
