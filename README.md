@@ -1,5 +1,5 @@
 # Avoid
-Annoying GUI Application 
+Annoying GUI Application <br/>
 ![alt text](https://github.com/AAVision/Avoid/blob/master/12.jpg?raw=true)
 
 It's an application that can generate 2 new forms after closing the main form <br/>
