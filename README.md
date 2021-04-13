@@ -4,7 +4,6 @@ Annoying GUI Application V1.0 <br/><br/><br/>
 
 1. It's an application that can generate 2 new forms after closing the main form. <br/>
 2. It can add itself to the startup. <br/>
-3. I'm looking in the next version to hide it from the task manager. <br/>
-4. All this work is for educational purpose. <br/>
+3. All this work is for educational purpose. <br/>
 
 # AAVision
